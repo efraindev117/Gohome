@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">GoHome</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="titleOneForm">¡No te preocupes! toda tu información esta segura en la nube."</string>
+    <string name="label">Nombre</string>
+    <string name="titleTwoForm">Por favor llena los campos con información actualizada</string>
+    <string name="titleThreeForm">Intenta ser claro y directo con los datos sobre tu salud actual</string>
+    <string name="titleFragmentQR">Escanea el QR del parche para poder iniciar con el registro de datos.</string>
+    <string name="login_subtitulo">nos da mucho gusto que estés aquí.</string>
+    <string name="login_titulo">¡Hola, bienvenido(a)!</string>
+    <string name="TituloEspacio">Inicio</string>
+    <string name="TxtPrimeraTarjeta">Te acompañamos donde estés</string>
+    <string name="TxtParrafoPrimeraTarjeta">El servicio esta disponible las 24/7 porque usamos infraestructura de Google.</string>
+    <string name="txtTitleSegundCard">¿Tienes Preguntas?</string>
+    <string name="txtParrafoSegundCard">Puedes mandarnos mensaje en cualquier momento, sólo toca en "chat." </string>
+    <string name="txtTitleTercerCard">Escuela y COVID-19</string>
+    <string name="txtParrafoTercerCard">Obsequiamos áreas de desinfección y donaciones monetarias para que los alumnos esten seguros.</string>
+    <string name="txtButtonChat">Chat</string>
+    <string name="txtTitleParcheCard">Fácil de usar</string>
+    <string name="txtTitleCard">Fácil de usar</string>
+    <string name="txtParrafoCard">Sólo escanea el QR principal con esta app para ayudar a alguien, subir o actualizar datos. !Simple¡</string>
+    <string name="fui_sign_in_with_google_google">Sign in with Google</string>
+    <string name="loginOptions">Inicia sesión con Google ♥</string>
+    <string name="space_hola">Hola,</string>
+    <string name="UserName">Efrain Arreola</string>
+    <string name="Card_texto">Tu información esta disponible 24hrs y segura en la nube porque usamos Firebase de Google.</string>
+    <string name="texto_quieras">Puedes subir los datos que quieras: información de contacto, código de vacunación, información de sobre tu salud como alergias o tratamientos .</string>
+    <string name="texto_scanner">Escanea el parche para la busqueda.</string>
+    <string name="escanear">Escanear</string>
+    <string name="edad">Edad</string>
+    <string name="sexo">Sexo</string>
+    <string name="sangre">sangre</string>
+    <string name="telefono">Telefono</string>
+
+</resources>

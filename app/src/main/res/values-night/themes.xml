@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.GoHome" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">?attr/isLightTheme</item>
+    </style>
+
+    <style name="Theme.LocationNext.AppBarOverlay" parent="Theme.Material3.DayNight.NoActionBar" />
+    <style name="Theme.LocationNext.PopupOverlay" parent="Theme.Material3.DayNight.NoActionBar" />
+</resources>
